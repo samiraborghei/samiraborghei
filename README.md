@@ -1,6 +1,7 @@
 ### 👋 Hello, I'm Samira!
-🔭 I’m currently working on changing my job
-Junior Web Developer specializing in the React | 💻 Frontend Enthusiast | 🎨 UI/UX Lover 
+## Web Developer specializing in the React | 💻 Frontend Enthusiast | 🎨 UI/UX Lover 
+🔭 I’m currently working on changing my job to FULLSTACK WEB DEVELOPRE
+
 ### CONTACT INFORMATION
 * Email: samira.borghei@hotmail.com
 
