@@ -1,9 +1,8 @@
-### Hi there 👋
+### 👋 Hello, I'm Samira!
 🔭 I’m currently working on changing my job
-## SAMIRA BORGHEI 
-# Full Stack Software Engineer 
+Junior Web Developer specializing in the React | 💻 Frontend Enthusiast | 🎨 UI/UX Lover 
 ### CONTACT INFORMATION
-- 📫 How to reach me: ...
+* Email: samira.borghei@hotmail.com
 
 
 
