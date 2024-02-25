@@ -1,4 +1,11 @@
 ### Hi there 👋
+🔭 I’m currently working on changing my job
+## SAMIRA BORGHEI 
+# Full Stack Software Engineer 
+### CONTACT INFORMATION
+- 📫 How to reach me: ...
+
+
 
 <!--
 **samiraborghei/samiraborghei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
