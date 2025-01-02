@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Samira!
 ## Web Developer specializing in the React | 💻 Frontend Enthusiast | 🎨 UI/UX Lover | FullStack  
-🔭 I’m currently working on changing my job to FULLSTACK WEB DEVELOPRE
+🔭 I’m currently working on changing my job 
 
 ### CONTACT INFORMATION
 * Email: samira.borghei@hotmail.com
