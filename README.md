@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Samira!
-## Web Developer specializing in the React | 💻 Frontend Enthusiast | 🎨 UI/UX Lover 
+## Web Developer specializing in the React | 💻 Frontend Enthusiast | 🎨 UI/UX Lover | FullStack  
 🔭 I’m currently working on changing my job to FULLSTACK WEB DEVELOPRE
 
 ### CONTACT INFORMATION
